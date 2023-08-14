@@ -1,0 +1,6 @@
+framework module Pods_JackMa_Tests {
+  umbrella header "Pods-JackMa_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
