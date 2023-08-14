@@ -23,5 +23,6 @@
 
     ]
   },
-  "source_files": "JackMa/Classes/**/*"
+  "source_files": "JackMa/Classes/**/*",
+  "static_framework": true
 }

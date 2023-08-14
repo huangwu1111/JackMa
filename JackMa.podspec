@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '11.0'
   s.dependency 'Alamofire'
   s.source_files = 'JackMa/Classes/**/*'
-  
+  s.static_framework  =  true
   # s.resource_bundles = {
   #   'JackMa' => ['JackMa/Assets/*.png']
   # }
