@@ -25,4 +25,8 @@ class Tests: XCTestCase {
         }
     }
     
+    func testHud() {
+        JackMac().hudTest()
+    }
+    
 }

@@ -21,8 +21,13 @@
   "dependencies": {
     "Alamofire": [
 
+    ],
+    "ProgressHUD": [
+
     ]
   },
   "source_files": "JackMa/Classes/**/*",
-  "static_framework": true
+  "static_framework": true,
+  "swift_versions": "5",
+  "swift_version": "5"
 }

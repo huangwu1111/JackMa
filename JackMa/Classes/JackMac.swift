@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import ProgressHUD
 
 public class JackMac {
     
@@ -17,4 +18,8 @@ public class JackMac {
         print("my name is \(name)")
     }
     
+    public func hudTest() {
+        ProgressHUD.showError("你好")
+    }
 }
+

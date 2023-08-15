@@ -2,14 +2,18 @@ PODS:
   - Alamofire (5.7.1)
   - JackMa (0.1.0):
     - Alamofire
+    - ProgressHUD
+  - ProgressHUD (2.70)
 
 DEPENDENCIES:
   - Alamofire
   - JackMa (from `../`)
+  - ProgressHUD
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - ProgressHUD
 
 EXTERNAL SOURCES:
   JackMa:
@@ -17,8 +21,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
-  JackMa: 7bb12e8743bfb736fc0f7e5f57ac1fa162c39af0
+  JackMa: d56bbd6d04367dde9e994658d7c6b4e3c6a055f0
+  ProgressHUD: e603e8b8622c47d8818b9fb38b3cfe9d3e7ca421
 
-PODFILE CHECKSUM: 994305a0205f924736191ff5f7d5e3ede8f63538
+PODFILE CHECKSUM: 87437043d8255b8dab48069203283e8e54b2ecf5
 
 COCOAPODS: 1.12.1

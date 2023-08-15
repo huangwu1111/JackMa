@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JackMa'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'A short description of JackMa.'
 
 # This description is used to generate tags and improve search results.
@@ -30,8 +30,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '11.0'
   s.dependency 'Alamofire'
+  s.dependency 'ProgressHUD'
   s.source_files = 'JackMa/Classes/**/*'
   s.static_framework  =  true
+  s.swift_version = '5'
   # s.resource_bundles = {
   #   'JackMa' => ['JackMa/Assets/*.png']
   # }

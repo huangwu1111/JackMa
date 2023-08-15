@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		110C32471CF8374CF18165E6 /* Pods-JackMa_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JackMa_Tests.release.xcconfig"; path = "Target Support Files/Pods-JackMa_Tests/Pods-JackMa_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		12FE381F37F7A6E5EBAD61E8 /* JackMa.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JackMa.podspec; path = ../JackMa.podspec; sourceTree = "<group>"; };
+		12FE381F37F7A6E5EBAD61E8 /* JackMa.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JackMa.podspec; path = ../JackMa.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5B9BC9B332150E70923DDD1F /* Pods_JackMa_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JackMa_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* JackMa_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JackMa_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -316,10 +316,12 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-JackMa_Example/Pods-JackMa_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/ProgressHUD/ProgressHUD.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ProgressHUD.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
