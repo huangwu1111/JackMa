@@ -31,7 +31,9 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '13.0'
   s.dependency 'Alamofire'
   s.dependency 'ProgressHUD'
-  s.source_files = 'JackMa/Classes/**/*'
+#  s.source_files = 'JackMa/Classes/**/*'
+  s.vendored_frameworks = 'JackMa/Classes/**/*.xcframework'
+
   s.static_framework  =  true
   s.swift_version = '5'
   # s.resource_bundles = {

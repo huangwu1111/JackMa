@@ -26,7 +26,7 @@
 
     ]
   },
-  "source_files": "JackMa/Classes/**/*",
+  "vendored_frameworks": "JackMa/Classes/**/*.xcframework",
   "static_framework": true,
   "swift_versions": "5",
   "swift_version": "5"
