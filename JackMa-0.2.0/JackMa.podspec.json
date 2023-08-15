@@ -26,8 +26,12 @@
 
     ]
   },
-  "source_files": "JackMa/Classes/**/*",
   "static_framework": true,
   "swift_versions": "5",
-  "swift_version": "5"
+  "swift_version": "5",
+  "vendored_frameworks": "JackMa.xcframework",
+  "ios": {
+    "public_header_files": "JackMa.xcframework/ios-arm64/*/Headers/*.h",
+    "source_files": "JackMa.xcframework/ios-arm64/*/Headers/*.h"
+  }
 }

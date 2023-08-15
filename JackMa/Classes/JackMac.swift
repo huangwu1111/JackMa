@@ -19,7 +19,7 @@ public class JackMac {
     }
     
     public func hudTest() {
-        ProgressHUD.showError("你好")
+        ProgressHUD.showError("😂😄😄")
     }
 }
 
