@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/JackMa.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		q0VWF+fqBhCB5R0mWwdCORmZOd0=
+		7iFUwRXqECgj7AqRlHQ00EwmxME=
 		</data>
 		<key>Modules/JackMa.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		qS/H9uUD39xIobNzOwYVB2AdbGE=
+		TOxWcpm96Bls49WSlyjzGJzXI2A=
 		</data>
 		<key>Modules/JackMa.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		HwVMCUsrdzwB/1ZNv3zcQa0qiEo=
+		ixhDWK0gb+7pr2+Vm8dbRpdht5I=
 		</data>
 		<key>Modules/JackMa.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/JackMa.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9XlmRKZnG8wi9I95/rgd+pGBFe8=
+		lio/C4BGyMwg02PyrnarzLdqX7I=
 		</data>
 		<key>Modules/JackMa.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		HwVMCUsrdzwB/1ZNv3zcQa0qiEo=
+		ixhDWK0gb+7pr2+Vm8dbRpdht5I=
 		</data>
 		<key>Modules/JackMa.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/JackMa.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xcN+s1EYdIQHSG08bt6ikAdHYXI=
+		QFNCkw6r1PbbI1r83uwntJuSreA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,33 +97,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q0VWF+fqBhCB5R0mWwdCORmZOd0=
+			7iFUwRXqECgj7AqRlHQ00EwmxME=
 			</data>
 			<key>hash2</key>
 			<data>
-			HwsJniteR3bffcEA/crTs7WUFXM4WKB4qMmRGVwuTGA=
+			tB6xXmeJhV3ONHkVLnx+z7bHffarYZML0gc5iDQkkZs=
 			</data>
 		</dict>
 		<key>Modules/JackMa.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qS/H9uUD39xIobNzOwYVB2AdbGE=
+			TOxWcpm96Bls49WSlyjzGJzXI2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			1I3lQSytuWEA0NGNBjDkxCjD4ss1MJipbo2rOp1vdjk=
+			Lk6vfTWR6nNtphLDaXArRMwTpHZq1m8opKikdTGrL9U=
 			</data>
 		</dict>
 		<key>Modules/JackMa.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HwVMCUsrdzwB/1ZNv3zcQa0qiEo=
+			ixhDWK0gb+7pr2+Vm8dbRpdht5I=
 			</data>
 			<key>hash2</key>
 			<data>
-			qqjAzfVLzjJp7YPvxiuGyexiftknB9mjEahag56zwkg=
+			a4dkovHPbwkhuXppQq6bIPvMdAMikgER7IFpZaasUf8=
 			</data>
 		</dict>
 		<key>Modules/JackMa.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -163,22 +163,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9XlmRKZnG8wi9I95/rgd+pGBFe8=
+			lio/C4BGyMwg02PyrnarzLdqX7I=
 			</data>
 			<key>hash2</key>
 			<data>
-			zW0J0czW0VI0cel4sAy47J4oWdpI7n831C6nur5r+xs=
+			e7++YpMc/kAuMFhvrsYXGC6h8aVz3JT2g2aUi7NSDiw=
 			</data>
 		</dict>
 		<key>Modules/JackMa.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HwVMCUsrdzwB/1ZNv3zcQa0qiEo=
+			ixhDWK0gb+7pr2+Vm8dbRpdht5I=
 			</data>
 			<key>hash2</key>
 			<data>
-			qqjAzfVLzjJp7YPvxiuGyexiftknB9mjEahag56zwkg=
+			a4dkovHPbwkhuXppQq6bIPvMdAMikgER7IFpZaasUf8=
 			</data>
 		</dict>
 		<key>Modules/JackMa.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -218,11 +218,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xcN+s1EYdIQHSG08bt6ikAdHYXI=
+			QFNCkw6r1PbbI1r83uwntJuSreA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sg8uP9Bt5Mt4LDHvO+uR/ES7eYgSnBONzug8IGVQXFk=
+			oqek9xE8Uy9OF+pA3EdFeFPUFiNyPA8a0Qr1RJ7L3Bg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
